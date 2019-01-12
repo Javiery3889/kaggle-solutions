@@ -1,7 +1,7 @@
 # AIML-CA1
 The objective of the assignment is to help you gain a better understanding of machine learning tasks of regression and classification.
 ## Submission Results
-1[KaggleResults](https://raw.githubusercontent.com/Javiery3889/AIML-CA1/Kaggle_Results.PNG)
+![KaggleResults](https://raw.githubusercontent.com/Javiery3889/AIML-CA1/Kaggle_Results.PNG)
 ## Part A: Classification
 ### Background
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
